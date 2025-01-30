@@ -43,11 +43,12 @@ Frontend Setup
 The frontend is built using Vue.js and communicates with the backend via gRPC.
 Install Dependencies
 1.	Clone the repository:
-git clone https://github.com/your-repository/sales-application.git
+git clone https://github.com/sales-application
+/sales-application.git
 cd sales-application/frontend
-2.	Install the necessary dependencies:
+3.	Install the necessary dependencies:
 npm install
-3. 	Run the App
+4. 	Run the App
 To start the frontend development server:
 
 npm run dev
