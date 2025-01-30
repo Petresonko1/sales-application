@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Microservices-based backend with gRPC",
+  "dependencies": {
+    "grpc": "^1.24.3",
+    "proto-loader": "^0.5.6"
+  }
+}
