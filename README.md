@@ -1,4 +1,5 @@
-Sales Application
+**Sales Application**
+
 This project consists of a Vue.js frontend and a Node.js backend with gRPC communication. The app provides functionality for managing products, orders, and customer services through a microservice architecture.
 ________________________________________
 Project Structure
